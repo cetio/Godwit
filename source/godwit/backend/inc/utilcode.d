@@ -1,6 +1,6 @@
 module godwit.backend.inc.utilcode;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct RangeList
 {

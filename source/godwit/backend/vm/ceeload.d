@@ -14,7 +14,7 @@ import godwit.backend.inc.corhdr;
 import godwit.backend.vm.classhash;
 import godwit.backend.vm.typehash;
 import godwit.backend.vm.instmethhash;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 import godwit.backend.inc.loaderheap;
 

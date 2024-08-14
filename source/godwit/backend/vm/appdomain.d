@@ -14,7 +14,7 @@ import godwit.backend.inc.shash;
 import godwit.backend.vm.rcwrefcache;
 import godwit.backend.vm.nativeimage;
 import godwit.backend.vm.eehash;
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.vm.comreflectioncache;
 import godwit.impl;
 import godwit.backend.inc.arraylist;

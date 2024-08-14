@@ -1,7 +1,7 @@
 module godwit.backend.vm.methodimpl;
 
 import godwit.backend.vm.method;
-import caiman.traits;
+import tern.accessors;
 
 // Used in cases like virtual methods, where a method can be implemented, derived, and or overriden
 public struct MethodImpl

@@ -1,7 +1,7 @@
 module godwit.backend.inc.loaderheap;
 
 import godwit.backend.inc.corhdr;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 import godwit.backend.inc.utilcode;
 

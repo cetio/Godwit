@@ -1,7 +1,7 @@
 module godwit.backend.binder.assemblyname;
 
 import godwit.backend.binder.assemblyidentity;
-import caiman.traits;
+import tern.accessors;
 
 public struct AssemblyName
 {

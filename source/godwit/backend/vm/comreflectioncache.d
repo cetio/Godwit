@@ -2,7 +2,7 @@ module godwit.backend.vm.comreflectioncache;
 
 import godwit.backend.simplerwlock;
 import godwit.backend.vm.methodtable;
-import caiman.traits;
+import tern.accessors;
 
 public struct ReflectionCache(ELEM, TYPE, int SIZE)
 {

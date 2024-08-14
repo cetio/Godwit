@@ -1,6 +1,6 @@
 module godwit.backend.inc.ex;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct EXException
 {

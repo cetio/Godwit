@@ -1,6 +1,6 @@
 module godwit.backend.binder.assemblyversion;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct AssemblyVersion
 {

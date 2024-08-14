@@ -5,7 +5,7 @@ import godwit.backend.inc.sbuffer;
 import godwit.backend.vm.peimagelayout;
 import godwit.backend.inc.bundle;
 import godwit.backend.simplerwlock;
-import caiman.traits;
+import tern.accessors;
 
 public struct PEImage
 {

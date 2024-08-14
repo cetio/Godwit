@@ -2,7 +2,7 @@
 module godwit.backend.vm.threads;
 
 import godwit.backend.gc.gcenv;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 /// DeadlockAwareLock is a base for building deadlock-aware locks.

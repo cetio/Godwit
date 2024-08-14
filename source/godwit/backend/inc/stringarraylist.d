@@ -1,7 +1,7 @@
 module godwit.backend.inc.stringarraylist;
 
 import godwit.backend.inc.arraylist;
-import caiman.traits;
+import tern.accessors;
 
 public struct StringArrayList
 {

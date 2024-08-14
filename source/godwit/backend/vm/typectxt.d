@@ -1,7 +1,7 @@
 module godwit.backend.vm.typectxt;
 
 import godwit.backend.vm.typehandle;
-import caiman.traits;
+import tern.accessors;
 
 public struct SigTypeContext
 {

@@ -2,7 +2,7 @@
 module godwit.backend.vm.object;
 
 import godwit.backend.vm.methodtable;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 alias ObjectRef = BaseObject*;

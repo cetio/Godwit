@@ -5,9 +5,9 @@ import godwit.backend.inc.corhdr;
 import godwit.backend.vm.assembly;
 import godwit.backend.inc.stringarraylist;
 import godwit.backend.inc.shash;
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.binder.bspace;
-import caiman.state;
+import tern.state;
 
 public struct ApplicationContext
 {

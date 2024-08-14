@@ -2,7 +2,7 @@ module godwit.backend.binder.assemblyidentity;
 
 import godwit.backend.inc.sbuffer;
 import godwit.backend.binder.assemblyversion;
-import caiman.traits;
+import tern.accessors;
 
 public struct AssemblyIdentity
 {

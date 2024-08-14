@@ -3,7 +3,7 @@ module godwit.backend.vm.codeman;
 import godwit.backend.inc.loaderheap;
 import godwit.backend.vm.crst;
 import godwit.backend.vm.loaderallocator;
-import caiman.traits;
+import tern.accessors;
 
 public struct FreeBlock
 {

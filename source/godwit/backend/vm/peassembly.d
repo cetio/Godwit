@@ -3,7 +3,7 @@ module godwit.backend.vm.peassembly;
 import godwit.backend.vm.peimage;
 import godwit.backend.vm.assemblybinder;
 import godwit.backend.binder.bspace;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct PEAssembly

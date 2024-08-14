@@ -1,6 +1,6 @@
 module godwit.backend.inc.pal;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct ExceptionRecord
 {

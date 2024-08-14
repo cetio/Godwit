@@ -9,7 +9,7 @@ import godwit.backend.inc.corhdr;
 import godwit.backend.gc.gcdesc;
 import godwit.backend.metadata;
 import godwit.backend.vm.typehandle;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 

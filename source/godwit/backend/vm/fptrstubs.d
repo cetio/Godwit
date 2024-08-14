@@ -5,7 +5,7 @@ import godwit.backend.vm.crst;
 import godwit.backend.vm.method;
 import godwit.backend.vm.precode;
 import godwit.backend.inc.shash;
-import caiman.traits;
+import tern.accessors;
 
 /**
     Contains stubs that is used by GetMultiCallableAddrOfCode() if

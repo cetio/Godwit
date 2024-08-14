@@ -4,8 +4,8 @@ import godwit.backend.vm.crst;
 import godwit.backend.vm.typehandle;
 import godwit.backend.inc.ex;
 import godwit.backend.vm.typekey;
-import caiman.traits;
-import caiman.state;
+import tern.accessors;
+import tern.state;
 import godwit.impl;
 
 public struct PendingTypeLoadEntry

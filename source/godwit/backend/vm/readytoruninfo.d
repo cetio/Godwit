@@ -8,7 +8,7 @@ import godwit.backend.vm.ceeload;
 import godwit.backend.vm.nativeimage;
 import godwit.backend.vm.hash;
 import godwit.backend.vm.inlinetracking;
-import caiman.traits;
+import tern.accessors;
 
 public struct ReadyToRunCoreInfo
 {

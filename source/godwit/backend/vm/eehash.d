@@ -1,7 +1,7 @@
 module godwit.backend.vm.eehash;
 
 import std.uuid;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct EEHashEntry

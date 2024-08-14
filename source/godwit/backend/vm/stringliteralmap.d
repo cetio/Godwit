@@ -3,7 +3,7 @@ module godwit.backend.vm.stringliteralmap;
 import godwit.backend.inc.memorypool;
 import godwit.backend.vm.appdomain;
 import godwit.backend.vm.eehash;
-import caiman.traits;
+import tern.accessors;
 
 public struct StringLiteralMap
 {

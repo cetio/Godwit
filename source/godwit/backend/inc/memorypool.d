@@ -1,6 +1,6 @@
 module godwit.backend.inc.memorypool;
 
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct PoolElement

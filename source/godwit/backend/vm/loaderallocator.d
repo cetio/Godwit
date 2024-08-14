@@ -6,7 +6,7 @@ import godwit.backend.vm.crst;
 import godwit.backend.vm.fptrstubs;
 import godwit.backend.vm.stringliteralmap;
 import godwit.backend.vm.object;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 import godwit.backend.vm.appdomain;
 import godwit.backend.simplerwlock;

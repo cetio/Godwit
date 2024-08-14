@@ -1,6 +1,6 @@
 module godwit.backend.vm.hash;
 
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct HashMap

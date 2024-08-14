@@ -3,7 +3,7 @@ module godwit.backend.vm.typehash;
 
 import godwit.backend.vm.dacenumerablehash;
 import godwit.backend.vm.loaderallocator;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 /**

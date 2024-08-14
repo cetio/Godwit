@@ -3,7 +3,7 @@ module godwit.backend.vm.clrex;
 import godwit.backend.vm.method;
 import godwit.backend.inc.ex;
 import godwit.backend.vm.object;
-import caiman.traits;
+import tern.accessors;
 
 public struct StackTraceInfo
 {

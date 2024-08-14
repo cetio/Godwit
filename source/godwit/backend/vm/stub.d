@@ -3,7 +3,7 @@ module godwit.backend.vm.stub;
 import godwit.backend.vm.method;
 import godwit.backend.vm.ceeload;
 import godwit.backend.siginfo;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 import godwit.backend.inc.shash;
 import godwit.backend.vm.appdomain;

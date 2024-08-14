@@ -1,6 +1,6 @@
 module godwit.backend.inc.slist;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct SLink
 {

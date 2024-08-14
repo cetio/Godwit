@@ -8,7 +8,7 @@ import godwit.backend.vm.peimagelayout;
 import godwit.backend.inc.corhdr;
 import godwit.backend.vm.crst;
 import godwit.backend.inc.shash;
-import caiman.traits;
+import tern.accessors;
 
 public struct NativeImage
 {

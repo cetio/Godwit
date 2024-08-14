@@ -2,7 +2,7 @@ module godwit.backend.vm.typehandle;
 
 import godwit.backend.vm.methodtable;
 import godwit.backend.vm.typedesc;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 /**

@@ -1,7 +1,7 @@
 /// Represents what should be godwit.corhlprpriv
 module godwit.backend.gc.qtempls;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct CQuickMemoryBase
 {

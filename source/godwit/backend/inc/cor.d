@@ -3,8 +3,8 @@
 module godwit.backend.inc.cor;
 
 import godwit.backend.inc.corhdr;
-import caiman.traits;
-import caiman.state;
+import tern.accessors;
+import tern.hresult;
 
 /*
 This file does not include any compression, only decompression

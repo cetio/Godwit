@@ -3,7 +3,7 @@ module godwit.backend.vm.typeequivalencehash;
 import godwit.backend.vm.dacenumerablehash;
 import godwit.backend.vm.crst;
 import godwit.backend.vm.typehandle;
-import caiman.traits;
+import tern.accessors;
 
 public struct TypeEquivalenceEntry
 {

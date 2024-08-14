@@ -1,7 +1,7 @@
 module godwit.backend.vm.inlinetracking;
 
 import godwit.backend.vm.ceeload;
-import caiman.traits;
+import tern.accessors;
 
 public struct PersistentInlineTrackingMapR2R
 {

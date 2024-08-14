@@ -1,7 +1,7 @@
 /// Represents precode/prologue data for methods
 module godwit.backend.vm.precode;
 
-import caiman.traits;
+import tern.accessors;
 
 /// Method prologue data structure, effectively just a byte array
 public struct Precode

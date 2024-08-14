@@ -1,6 +1,6 @@
 module godwit.backend.gc.gcenv;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct Thread
 {

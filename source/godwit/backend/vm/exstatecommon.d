@@ -1,6 +1,6 @@
 module godwit.backend.vm.exstatecommon;
 
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.vm.method;
 import godwit.impl;
 

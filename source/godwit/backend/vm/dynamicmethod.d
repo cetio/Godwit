@@ -5,7 +5,7 @@ import godwit.backend.vm.methodtable;
 import godwit.backend.vm.ceeload;
 import godwit.backend.vm.appdomain;
 import godwit.backend.vm.method;
-import caiman.traits;
+import tern.accessors;
 
 public struct DynamicMethodTable
 {

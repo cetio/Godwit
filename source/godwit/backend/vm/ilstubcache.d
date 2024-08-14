@@ -5,7 +5,7 @@ import godwit.backend.inc.loaderheap;
 import godwit.backend.vm.methodtable;
 import godwit.backend.vm.method;
 import godwit.backend.inc.shash;
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.vm.loaderallocator;
 
 public struct ILStubHashBlobBase

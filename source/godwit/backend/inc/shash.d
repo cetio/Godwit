@@ -1,6 +1,6 @@
 module godwit.backend.inc.shash;
 
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.vm.nativeimage;
 import godwit.backend.vm.assembly;
 import godwit.backend.binder.applicationcontext;

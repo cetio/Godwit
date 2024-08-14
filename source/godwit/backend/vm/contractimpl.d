@@ -2,7 +2,7 @@ module godwit.backend.vm.contractimpl;
 
 import godwit.backend.vm.hash;
 import godwit.backend.vm.crst;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct TypeIDMap

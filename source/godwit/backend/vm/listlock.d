@@ -4,8 +4,8 @@ import godwit.backend.vm.codeversion;
 import godwit.backend.vm.crst;
 import godwit.backend.vm.threads;
 import godwit.backend.vm.loaderallocator;
-import caiman.traits;
-import caiman.state;
+import tern.accessors;
+import tern.state;
 
 alias ListLock = ListLockBase!(void*);
 alias ListLockEntry = ListLockEntryBase!(void*);

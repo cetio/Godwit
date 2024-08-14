@@ -3,7 +3,7 @@ module godwit.backend.vm.rcwrefcache;
 import godwit.backend.vm.appdomain;
 import godwit.backend.gc.qtempls;
 import godwit.backend.vm.object;
-import caiman.traits;
+import tern.accessors;
 
 public struct RCWRefCache
 {

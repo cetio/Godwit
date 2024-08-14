@@ -1,7 +1,7 @@
 module godwit.backend.inc.readytorun;
 
 import godwit.backend.inc.corhdr;
-import caiman.traits;
+import tern.accessors;
 
 public struct ReadyToRunCoreHeader
 {

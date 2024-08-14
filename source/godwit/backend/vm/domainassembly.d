@@ -6,7 +6,7 @@ import godwit.backend.vm.peassembly;
 import godwit.backend.vm.ceeload;
 import godwit.backend.vm.loaderallocator;
 import godwit.backend.vm.exinfo;
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.inc.corhdr;
 import godwit.backend.vm.dynamicmethod;
 

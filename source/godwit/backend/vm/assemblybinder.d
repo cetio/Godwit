@@ -5,7 +5,7 @@ import godwit.backend.binder.applicationcontext;
 import godwit.backend.inc.shash;
 import godwit.backend.inc.sbuffer;
 import godwit.backend.vm.assembly;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct AssemblyBinder

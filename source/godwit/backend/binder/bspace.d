@@ -4,7 +4,7 @@ import godwit.backend.vm.peimage;
 import godwit.backend.binder.assemblyname;
 import godwit.backend.vm.assemblybinder;
 import godwit.backend.vm.domainassembly;
-import caiman.traits;
+import tern.accessors;
 
 public struct BinderSpace
 {

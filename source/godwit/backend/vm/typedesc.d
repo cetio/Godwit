@@ -4,7 +4,7 @@ import std.bitmanip;
 import godwit.backend.vm.typehandle;
 import godwit.backend.inc.corhdr;
 import godwit.backend.vm.ceeload;
-import caiman.traits;
+import tern.accessors;
 
 /**
    TypeDesc is a discriminated union of all types that can not be directly

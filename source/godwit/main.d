@@ -4,7 +4,6 @@ import core.sys.windows.windows;
 import core.sys.windows.windef : HINSTANCE, BOOL, DWORD, LPVOID;
 import core.sys.windows.dll;
 import godwit;
-import caiman.make;
 import std.stdio;
 import std.conv;
 

@@ -1,7 +1,7 @@
 module godwit.backend.vm.classhash;
 
 import godwit.backend.vm.dacenumerablehash;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct EEClassHashEntry

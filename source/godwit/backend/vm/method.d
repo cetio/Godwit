@@ -5,9 +5,9 @@ import godwit.backend.vm.methodtable;
 import godwit.backend.vm.methodimpl;
 import godwit.backend.metadata;
 import godwit.backend.vm.genericdict;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
-import caiman.state;
+import tern.state;
 
 public struct MethodDescChunk
 {

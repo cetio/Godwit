@@ -8,7 +8,7 @@ import godwit.backend.vm.typehandle;
 import godwit.backend.vm.method;
 import godwit.backend.vm.field;
 import godwit.backend.inc.corhdr;
-import caiman.traits;
+import tern.accessors;
 
 /// Generic dictionary, for instantiated types and methods (TBD) \
 /// This is just an abstraction around an open-ended array

@@ -3,7 +3,7 @@ module godwit.backend.siginfo;
 import godwit.backend.inc.corhdr;
 import godwit.backend.vm.typectxt;
 import godwit.backend.vm.ceeload;
-import caiman.traits;
+import tern.accessors;
 
 public struct Signature
 {

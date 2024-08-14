@@ -8,7 +8,7 @@ import godwit.backend.vm.typehandle;
 import godwit.backend.inc.corhdr;
 import godwit.backend.vm.object;
 import godwit.backend.packedfields;
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.inc.corinfo;
 import godwit.impl;
 

@@ -1,7 +1,7 @@
 module godwit.backend.vm.codeversion;
 
 import godwit.backend.vm.method;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct NativeCodeVersion

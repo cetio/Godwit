@@ -1,7 +1,7 @@
 module godwit.backend.vm.mngstdinterfaces;
 
 import godwit.backend.inc.sbuffer;
-import caiman.traits;
+import tern.accessors;
 
 public struct MngStdInterfacesInfo
 {

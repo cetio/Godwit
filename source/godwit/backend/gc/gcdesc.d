@@ -1,7 +1,7 @@
 module godwit.backend.gc.gcdesc;
 
 import godwit.backend.vm.methodtable;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 static if (size_t.sizeof == 4)

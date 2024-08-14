@@ -3,7 +3,7 @@ module godwit.backend.vm.clsload;
 import godwit.backend.vm.assembly;
 import godwit.backend.vm.crst;
 import godwit.backend.vm.pendingload;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct ClassLoader

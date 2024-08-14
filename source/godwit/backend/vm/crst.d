@@ -1,6 +1,6 @@
 module godwit.backend.vm.crst;
 
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct CrstBase

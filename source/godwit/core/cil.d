@@ -5,14 +5,14 @@ module godwit.core.cil;
 import std.conv;
 import std.string;
 import std.format;
-import caiman.mem;
+import tern.stream;
 import std.algorithm;
 
 public class CILGen
 {
 private:
 final:
-    Stack!ptrdiff_t stack;
+    ptrdiff_t[] stack;
     ubyte[] code;
 
 public:
@@ -467,7 +467,7 @@ shared static this()
     string disassembly;
     string prefix;
     bool keepPrefix;
-    Stream stream = new Stream(bytes);
+    BinaryStream stream = new BinaryStream(bytes);
 
     while (stream.mayRead)
     {

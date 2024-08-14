@@ -1,6 +1,6 @@
 module godwit.backend.inc.sbuffer;
 
-import caiman.traits;
+import tern.accessors;
 
 public struct SBuffer
 {

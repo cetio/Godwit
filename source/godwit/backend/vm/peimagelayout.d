@@ -2,7 +2,7 @@ module godwit.backend.vm.peimagelayout;
 
 import godwit.backend.vm.peimage;
 import godwit.backend.inc.corhdr;
-import caiman.traits;
+import tern.accessors;
 
 public struct PEImageLayout
 {

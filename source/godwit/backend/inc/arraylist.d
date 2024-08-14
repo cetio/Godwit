@@ -1,6 +1,6 @@
 module godwit.backend.inc.arraylist;
 
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 public struct ArrayListBlock

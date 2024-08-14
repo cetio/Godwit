@@ -4,7 +4,7 @@ import godwit.backend.vm.object;
 import godwit.backend.inc.pal;
 import godwit.backend.vm.clrex;
 import godwit.backend.vm.object;
-import caiman.traits;
+import tern.accessors;
 import godwit.backend.vm.exstatecommon;
 import godwit.impl;
 

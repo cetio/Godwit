@@ -8,7 +8,7 @@ import godwit.backend.vm.appdomain;
 import godwit.backend.vm.clsload;
 import godwit.backend.inc.arraylist;
 import godwit.backend.inc.corhdr;
-import caiman.traits;
+import tern.accessors;
 import godwit.impl;
 
 /// Equivalent to System.Runtime.Assembly.
